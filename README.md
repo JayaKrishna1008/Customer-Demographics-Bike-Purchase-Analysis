@@ -27,7 +27,7 @@ This project analyzes customer demographics and purchasing behavior to identify 
 - Suggest targeted marketing strategies based on demographics.
 
 - ## Dashboard
-- ![Dashborad Img](https://github.com/user-attachments/assets/b838d37e-df95-4a02-9ebf-c0acf6e7ffb5)
+![Dashborad Img](https://github.com/user-attachments/assets/b838d37e-df95-4a02-9ebf-c0acf6e7ffb5)
 
  ## Project Insight
   - The dataset consists of customers with different marital statuses, occupations, and education levels.
