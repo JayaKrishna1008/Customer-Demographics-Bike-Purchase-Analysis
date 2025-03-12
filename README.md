@@ -28,12 +28,16 @@ This project analyzes customer demographics and purchasing behavior to identify 
 
 - ## Dashboard
 - ![Dashborad Img](https://github.com/user-attachments/assets/b838d37e-df95-4a02-9ebf-c0acf6e7ffb5)
--
--    ## Project Insight
+
+ ## Project Insight
   - The dataset consists of customers with different marital statuses, occupations, and education levels.
   -  Income levels range from low (30,000) to high (80,000+), influencing purchasing power.
   -  A noticeable trend where males have a slightly higher purchase rate than females.
   -  Renters seem to purchase bikes more than homeowners, possibly due to ease of mobility.
   -  Focus marketing campaigns on single, middle-aged professionals earning above 50,000.
   -  Personalized offers based on income and commute patterns can improve sales.
-  -  
+  ## Final Conclusion
+  - Higher-income individuals and professionals are more likely to buy bikes.
+  - Lower-income groups show less engagement, suggesting a need for affordability strategies.
+  - Customers with 5-10 miles commute distances show higher purchase rates.
+  - Shorter commutes (0-1 miles) have lower bike adoption, indicating alternative transport preferences.
